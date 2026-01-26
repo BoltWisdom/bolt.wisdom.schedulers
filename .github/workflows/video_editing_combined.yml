@@ -1,4 +1,4 @@
-name: VIDEO EDITING COMBINED (WITH COUNTER)
+name: VIDEO EDITING COMBINED (WITH COUNTER)  
 
 on:
   workflow_dispatch:

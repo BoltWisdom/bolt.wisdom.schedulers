@@ -1,4 +1,4 @@
-name: UPLOAD COMBINED (WITH COUNTER)
+name: UPLOAD COMBINED (WITH COUNTER)  
 
 on:
   workflow_dispatch:
